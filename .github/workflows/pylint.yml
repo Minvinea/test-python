@@ -10,5 +10,5 @@ jobs:
       - uses: psf/black@stable
         with:
           options: "--check --verbose"
-          src: "./app/"
-          version: "~= 22.0"
+          src: "./"
+          version: "~= 23.10.1"
